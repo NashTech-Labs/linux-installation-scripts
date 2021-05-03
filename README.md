@@ -6,6 +6,7 @@ This repo consists of installation of :-
 
 - Docker
 - pulse Secure VPN
+- Jenkins
 
 
 
