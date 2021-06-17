@@ -8,6 +8,7 @@ This repo consists of installation of :-
 - pulse Secure VPN
 - Jenkins
 - GCloud SDK 
+- Kafkacat (Latest version , currently 1.6.0*)
 
 
 
