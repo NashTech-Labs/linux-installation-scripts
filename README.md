@@ -8,7 +8,11 @@ This repo consists of installation of :-
 - pulse Secure VPN
 - Jenkins
 - GCloud SDK 
+- visual studio code
 - Kafkacat (Latest version , currently 1.6.0*)
+- Terraform (Latest version , currently v1.0.7)
+- Go (Latest version , current version go1.13.8)
+
 
 
 
