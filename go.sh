@@ -8,4 +8,5 @@ export PATH=$PATH:/usr/local/go/bin
 #After adding the PATH environment variable, you need to apply changes immediately by running the following command.
 source ~/.bashrc
 #Now verify the installation by simply running the go version in the terminal.
+echo "=======INSTALLED GO==========="
 go version
