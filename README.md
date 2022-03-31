@@ -11,6 +11,7 @@ This repo consists of installation of :-
 - Kafkacat (Latest version , currently 1.6.0*)
 - Terraform (It is an infrastructure as code (IaC) tool that allows you to build, change and version infrastructure safely and efficiently.)
 - Visual studio code
+- Anydesk
 - Terratest (It is a Go library developed at Gruntwork, that makes it easier to write automated tests for our infrastructure code. Although you won't need this unless and until you want to test you IaC code.)
 
 	You can refer these blogs for getting started, <br/>
