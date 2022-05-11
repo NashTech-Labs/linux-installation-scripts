@@ -9,17 +9,18 @@ This repo consists of installation of :-
 - Jenkins
 - GCloud SDK 
 - Kafkacat (Latest version , currently 1.6.0*)
+- RabbitMQ (RabbitMQ is one of the most popular open source message brokers. It is lightweight and easy to deploy on premises and in the cloud and supports multiple messaging protocols.)
 - Terraform (It is an infrastructure as code (IaC) tool that allows you to build, change and version infrastructure safely and efficiently.)
 - Visual studio code
 - Terratest (It is a Go library developed at Gruntwork, that makes it easier to write automated tests for our infrastructure code. Although you won't need this unless and until you want to test you IaC code.)
 
-	You can refer these blogs for getting started, <br/>
-	https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
-	https://blog.knoldus.com/spinning-up-terraform-configuration-2/ <br/>
-	https://blog.knoldus.com/quick-start-terratest-with-terraform/ <br/>
+    You can refer these blogs for getting started, <br/>
+    https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
+    https://blog.knoldus.com/spinning-up-terraform-configuration-2/ <br/>
+    https://blog.knoldus.com/quick-start-terratest-with-terraform/ <br/>
 
-	You can also see this template for getting started <br/>
-	https://github.com/knoldus/TerratestWithTerraform <br/>
+    You can also see this template for getting started <br/>
+    https://github.com/knoldus/TerratestWithTerraform <br/>
 
 To run this :
 
