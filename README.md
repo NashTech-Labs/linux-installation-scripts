@@ -16,6 +16,7 @@ This repo consists of installation of :-
 - Boto3 using python (Get started quickly using AWS with boto3, the AWS SDK for Python. Boto3 makes it easy to integrate your Python application, library, or script with AWS services including Amazon S3, Amazon EC2, Amazon DynamoDB, and more.)
 - Go programming language (also known as “Golang”) originated at Google by Ken Thompson, Rob Pike, and others. The Go lang syntax shares many similarities with the C programming language but comes with many safety features such as: Free and open source,Statically typed,Memory safety,Garbage collection,structural typing,CSP-style,Python/JS like readability and usability,Strong support for multicore and networked systems,Concurrency, and more.
 - Snyk is a developer security platform for securing code, dependencies, containers, and infrastructure as code.
+- DotNet, To prepare a development environment for building .NET Core/ASP.NET Core applications. Also need to run powershell scripts in Ubuntu machine. Check using `dotnet --version`.
 
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
