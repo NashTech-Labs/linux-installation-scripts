@@ -18,6 +18,7 @@ This repo consists of installation of :-
 - Snyk is a developer security platform for securing code, dependencies, containers, and infrastructure as code.
 - DotNet, To prepare a development environment for building .NET Core/ASP.NET Core applications. Also need to run powershell scripts in Ubuntu machine. Check using `dotnet --version`.
 - Terramate,It is a tool that enhances Terraform by providing features like code generation, stack management, orchestration, change detection, and data sharing
+- Goldilocks,is a tool that can help you identify an exact point for resource requests and limits. It provides a dashboard that gives recommendations on how to set your resource requests.
 
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
