@@ -17,6 +17,7 @@ This repo consists of installation of :-
 - Go programming language (also known as “Golang”) originated at Google by Ken Thompson, Rob Pike, and others. The Go lang syntax shares many similarities with the C programming language but comes with many safety features such as: Free and open source,Statically typed,Memory safety,Garbage collection,structural typing,CSP-style,Python/JS like readability and usability,Strong support for multicore and networked systems,Concurrency, and more.
 - Snyk is a developer security platform for securing code, dependencies, containers, and infrastructure as code.
 - DotNet, To prepare a development environment for building .NET Core/ASP.NET Core applications. Also need to run powershell scripts in Ubuntu machine. Check using `dotnet --version`.
+- Terramate,It is a tool that enhances Terraform by providing features like code generation, stack management, orchestration, change detection, and data sharing
 
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
