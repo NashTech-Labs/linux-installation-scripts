@@ -19,6 +19,7 @@ This repo consists of installation of :-
 - DotNet, To prepare a development environment for building .NET Core/ASP.NET Core applications. Also need to run powershell scripts in Ubuntu machine. Check using `dotnet --version`.
 - Terramate,It is a tool that enhances Terraform by providing features like code generation, stack management, orchestration, change detection, and data sharing
 - Goldilocks,is a tool that can help you identify an exact point for resource requests and limits. It provides a dashboard that gives recommendations on how to set your resource requests.
+- AWS CLI, is an open source tool that enables you to interact with AWS services using commands in your command-line shell. The script installs the current latest version of AWS CLI but also asks the user if they want to install a specific version of AWS CLI.
 
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
