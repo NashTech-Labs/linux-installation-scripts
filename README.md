@@ -22,9 +22,8 @@ This repo consists of installation of :-
 - AWS CLI, is an open source tool that enables you to interact with AWS services using commands in your command-line shell. The script installs the current latest version of AWS CLI but also asks the user if they want to install a specific version of AWS CLI.
 - ##### Installation Script for `pack-cli`
         Use the provided script (`install_pack_cli.sh`) to easily install the Cloud Native Computing Foundation's `pack-cli` on your Debian-based system.
-  ##### About `pack-cli`:
-        pack-cli is a Cloud Native Buildpacks command-line interface that simplifies the process of building container images from source code. It is designed to streamline the packaging and deployment of applications in a cloud- 
-            native environment.
+- About pack-cli: pack-cli is a Cloud Native Buildpacks command-line interface that simplifies the process of building container images from source code. It is designed to streamline the packaging and deployment of applications in 
+  a cloud-native environment.
 
 
   <br>You can refer these blogs for getting started, <br/>
