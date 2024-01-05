@@ -23,7 +23,7 @@ This repo consists of installation of :-
 - ##### Installation Script for `pack-cli`
         Use the provided script (`install_pack_cli.sh`) to easily install the Cloud Native Computing Foundation's `pack-cli` on your Debian-based system.
   ##### About `pack-cli`:
-`       pack-cli` is a Cloud Native Buildpacks command-line interface that simplifies the process of building container images from source code. It is designed to streamline the packaging and deployment of applications in a cloud- 
+        pack-cli is a Cloud Native Buildpacks command-line interface that simplifies the process of building container images from source code. It is designed to streamline the packaging and deployment of applications in a cloud- 
             native environment.
 
 
