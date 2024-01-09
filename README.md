@@ -20,6 +20,9 @@ This repo consists of installation of :-
 - Terramate,It is a tool that enhances Terraform by providing features like code generation, stack management, orchestration, change detection, and data sharing
 - Goldilocks,is a tool that can help you identify an exact point for resource requests and limits. It provides a dashboard that gives recommendations on how to set your resource requests.
 - AWS CLI, is an open source tool that enables you to interact with AWS services using commands in your command-line shell. The script installs the current latest version of AWS CLI but also asks the user if they want to install a specific version of AWS CLI.
+- About Pack-Cli: Pack-Cli is a Cloud Native Buildpacks command-line interface that simplifies the process of building container images from source code. It is designed to streamline the packaging and deployment of applications in 
+  a cloud-native environment.
+
 
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
