@@ -23,6 +23,7 @@ This repo consists of installation of :-
 - About Pack-Cli: Pack-Cli is a Cloud Native Buildpacks command-line interface that simplifies the process of building container images from source code. It is designed to streamline the packaging and deployment of applications in 
   a cloud-native environment.
 - Komiser is an open-source project that empowers users to optimize and manage their cloud resources efficiently. It is compatible with various cloud providers and deployment methods.
+- ZeusCloud is like a watchtower that keeps a keen eye on your virtual fortress in the cloud, making sure no sneaky invaders can exploit weaknesses or misconfigurations in your defenses.
 
 
   <br>You can refer these blogs for getting started, <br/>
