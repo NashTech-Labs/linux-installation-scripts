@@ -24,8 +24,10 @@ This repo consists of installation of :-
   a cloud-native environment.
 - Komiser is an open-source project that empowers users to optimize and manage their cloud resources efficiently. It is compatible with various cloud providers and deployment methods.
 - Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. It automates the deployment and lifecycle management of applications from Git repositories.
-
-
+      - Prerequisite: (Refer https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
+        - kubectl installed
+        - cluster is setup
+      
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
     https://blog.knoldus.com/spinning-up-terraform-configuration-2/ <br/>
