@@ -28,6 +28,7 @@ This repo consists of installation of :-
         - kubectl installed
         - cluster is setup
 - Logstash: the data processing component of the Elastic Stack which sends incoming data to Elasticsearch.
+    - Prerequisite : Switch to Superuser (sudo su)
       
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>

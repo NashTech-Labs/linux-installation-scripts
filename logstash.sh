@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Switch to superuser
-sudo su
 
 # Update package index
 apt update
