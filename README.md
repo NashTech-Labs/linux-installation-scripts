@@ -31,7 +31,8 @@ This repo consists of installation of :-
     - Prerequisite : Switch to Superuser (sudo su)
  
 - K8sGPT is a tool for scanning kubernetes clusters, diagnosing and triaging issues in simple english. With the K8sGPT CLI we can scan our clusters by simlpy configuring the Kubeconfig of the cluster.
-  
+
+- Azure CLI ,is a set of commands used to create and manage Azure resources. The Azure CLI is available across Azure services and is designed to get you working quickly with Azure, with an emphasis on automation.
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
     https://blog.knoldus.com/spinning-up-terraform-configuration-2/ <br/>
