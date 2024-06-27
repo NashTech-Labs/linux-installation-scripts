@@ -36,6 +36,8 @@ This repo consists of installation of :-
 - Helm is a package manager for Kubernetes that allows developers and operators to more easily package, configure, and deploy applications and services onto Kubernetes cluster
 - BotKube is an open-source monitoring tool designed to provide real-time notifications and alerts, allowing DevOps teams to receive and manage updates about their Kubernetes environments directly within their preferred chat 
   applications.
+- OpenTofu is an open-source infrastructure as code (IaC) tool designed to automate the provisioning, configuration, and management of infrastructure. It allows developers and operations teams to define their infrastructure in code, 
+  enabling version control, reproducibility, and collaboration. It is particularly known for its flexibility and ease of use, making it an attractive option for teams of all sizes.
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
     https://blog.knoldus.com/spinning-up-terraform-configuration-2/ <br/>
