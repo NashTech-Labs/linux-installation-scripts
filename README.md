@@ -38,6 +38,7 @@ This repo consists of installation of :-
   applications.
 - OpenTofu is an open-source infrastructure as code (IaC) tool designed to automate the provisioning, configuration, and management of infrastructure. It allows developers and operations teams to define their infrastructure in code, 
   enabling version control, reproducibility, and collaboration. It is particularly known for its flexibility and ease of use, making it an attractive option for teams of all sizes.
+- K9s is a powerful terminal-based UI for interacting with your Kubernetes clusters. The script allows users to choose between installing the latest version of K9s or specifying a particular version.
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
     https://blog.knoldus.com/spinning-up-terraform-configuration-2/ <br/>
