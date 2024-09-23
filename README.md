@@ -41,6 +41,7 @@ This repo consists of installation of :-
 - K9s is a powerful terminal-based UI for interacting with your Kubernetes clusters. The script allows users to choose between installing the latest version of K9s or specifying a particular version.
 - Keptn integrates seamlessly with cloud-native deployment tools such as ArgoCD, Flux, and Gitlab to bring application awareness to your Kubernetes cluster. Keptn supplements the standard deployment tools with features to help you 
   ensure that your deployments are in a healthy state.
+- MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and organizing structured (or tabular) data, and to manage this data
 
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
