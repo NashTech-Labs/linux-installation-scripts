@@ -12,6 +12,7 @@ This repo consists of installation of :-
 - RabbitMQ (RabbitMQ is one of the most popular open source message brokers. It is lightweight and easy to deploy on premises and in the cloud and supports multiple messaging protocols.)
 - Terraform (It is an infrastructure as code (IaC) tool that allows you to build, change and version infrastructure safely and efficiently.)
 - Visual studio code
+- Anydesk
 - Terratest (It is a Go library developed at Gruntwork, that makes it easier to write automated tests for our infrastructure code. Although you won't need this unless and until you want to test you IaC code.)
 - Boto3 using python (Get started quickly using AWS with boto3, the AWS SDK for Python. Boto3 makes it easy to integrate your Python application, library, or script with AWS services including Amazon S3, Amazon EC2, Amazon DynamoDB, and more.)
 - Go programming language (also known as “Golang”) originated at Google by Ken Thompson, Rob Pike, and others. The Go lang syntax shares many similarities with the C programming language but comes with many safety features such as: Free and open source,Statically typed,Memory safety,Garbage collection,structural typing,CSP-style,Python/JS like readability and usability,Strong support for multicore and networked systems,Concurrency, and more.
