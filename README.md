@@ -43,6 +43,7 @@ This repo consists of installation of :-
   ensure that your deployments are in a healthy state.
 - Kubecost is a monitoring application which provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.
 - MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and organizing structured (or tabular) data, and to manage this data
+- FluxCD is an open-source tool designed to implement GitOps for Kubernetes. In simple terms, FluxCD helps automate the deployment and management of applications in Kubernetes clusters.
 
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
